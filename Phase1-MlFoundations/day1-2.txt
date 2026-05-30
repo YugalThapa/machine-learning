@@ -1,0 +1,12 @@
+Basic Understanding anbout machine Learning.
+Day 1–2:
+What is ML?
+TASKS
+• Watch Andrew Ng's Week 1 lectures (ML Specialization – audit free on Coursera)
+• StatQuest 'Machine Learning Fundamentals' playlist (first 3 videos, ~40 min)
+• Write a 1-page note: supervised vs unsupervised vs reinforcement learning
+• Set up your GitHub repo – commit your notes as a .md file today
+RESOURCES
+ Andrew Ng ML Specialization (Coursera – audit free)
+ StatQuest YouTube channel (youtube.com/@statquest)
+ Google ML Crash Course – Introduction (developers.google.com/machine-learning/crash-course)
